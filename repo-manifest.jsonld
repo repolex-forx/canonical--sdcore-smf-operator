@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/canonical/sdcore-smf-operator/commit/fbd23c366f886f6fef92d14d9af6cf45c347e4fb",
       "git:hexsha": "fbd23c366f886f6fef92d14d9af6cf45c347e4fb",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T14:51:04.230478+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/sdcore-smf-operator/commit/af15e9a1d356e5a6c4253b7b49e5b157c8bae087",
