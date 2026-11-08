@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "sdcore-smf-operator",
+  "versions": [
+    {
+      "commit": "fbd23c366f886f6fef92d14d9af6cf45c347e4fb",
+      "tag": "",
+      "parsed_at": "2026-11-08T14:51:04.234472+00:00"
+    }
+  ]
+}
